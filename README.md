@@ -29,7 +29,7 @@ Acesse o projeto clicando no link abaixo:
 
 Aqui está um exemplo de como a calculadora se apresenta:
 
-![Screenshot da Calculadora](imagens/calc.png)
+![Screenshot da Calculadora](imagens/calc.PNG)
 
 ---
 
